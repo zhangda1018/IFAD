@@ -1,0 +1,740 @@
+{
+    "annotations": [
+        {
+            "image_id": 1,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA5_2#ARJ102-20120619-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 2,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAEES2_2#ARJ102-20100625-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 3,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAEES1_2#ARJ102-20100612-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 4,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA6_2#ARJ102-20120620-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 5,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA2_2#ARJ102-20101005-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 6,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA4_2#ARJ102-20101007-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 7,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/VIL_1#ARJ102-20100611-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 8,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAC_2#ARJ102-20100617-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 9,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPOCIDT_2#ARJ102-20120622-hx1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 10,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA5_2#ARJ102-20101007-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 11,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA6_2#ARJ102-20100625-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 12,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAC_2#ARJ102-20100618-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 13,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/HPMR_1#ARJ102-20100619-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 14,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAEES2_2#ARJ102-20120620-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 15,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAA32_2#ARJ102-20100610-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 16,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAC_2#ARJ102-20120620-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 17,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/VIR_1#ARJ102-20110307-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 18,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/VIL_1#ARJ102-20120619-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 19,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/DELTPR_1#ARJ102-20120622-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 20,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPOCIDT_2#ARJ102-20120618-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 21,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA6_2#ARJ102-20100610-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 22,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA2_2#ARJ102-20120618-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 23,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/DELTPR_1#ARJ102-20120619-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 24,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA1_2#ARJ102-20120622-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 25,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA4_2#ARJ102-2011615-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 26,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSBR_1#ARJ102-20120620-hx1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 27,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSBR_1#ARJ102-20100625-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 28,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/HPML_1#ARJ102-20120622-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 29,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA1_2#ARJ102-20100618-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 30,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/DELTPR_1#ARJ102-20110129-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 31,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA7_2#ARJ102-20100619-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 32,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/HPML_1#ARJ102-20120620-hx1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 33,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSBR_1#ARJ102-20100612-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 34,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA4_2#ARJ102-20100601-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 35,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAEES1_2#ARJ102-20100624-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 36,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA5_2#ARJ102-20120622-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 37,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/HPML_1#ARJ102-20120622-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 38,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA7_2#ARJ102-20110311.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 39,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPOCIDT_2#ARJ102-20100610-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 40,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSB_1#ARJ102-20100625-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 41,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAA32_2#ARJ102-20100617-11.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 42,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA1_2#ARJ102-20100610-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 43,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSBR_1#ARJ102-20100618-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 44,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA6_2#ARJ102-20100610-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 45,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPCABINA_2#ARJ102-20120620-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 46,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA2_2#ARJ102-20100601-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 47,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA7_2#ARJ102-20100624-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 48,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPOCIDT_2#ARJ102-20120619-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 49,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/HPMR_1#ARJ102-20120620-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 50,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSB_1#ARJ102-20120622-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 51,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA5_2#ARJ102-20120620-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 52,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/HPML_1#ARJ102-20110314.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 53,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA7_2#ARJ102-20120620-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 54,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSB_1#ARJ102-20100614-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 55,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/VIR_1#ARJ102-20100601-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 56,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA5_2#ARJ102-20120622-hx1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 57,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA2_2#ARJ102-20100610-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 58,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSBR_1#ARJ102-20120619-hx1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 59,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSB_1#ARJ102-20120619-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 60,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSBR_1#ARJ102-20120622-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 61,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAEES1_2#ARJ102-20120620-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 62,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/VIR_1#ARJ102-20100611-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 63,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAEES1_2#ARJ102-20120620-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 64,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/DELTPR_1#ARJ102-20101005-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 65,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSB_1#ARJ102-20110309.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 66,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/HPML_1#ARJ102-20100617-11.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 67,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA7_2#ARJ102-20110129-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 68,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSB_1#ARJ102-20120620-hx1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 69,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAEES2_2#ARJ102-20120622-hx1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 70,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA4_2#ARJ102-20100611-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 71,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAA32_2#ARJ102-20100617-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 72,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA4_2#ARJ102-20101005-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 73,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA5_2#ARJ102-20120620-hx1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 74,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAC_2#ARJ102-20100610-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 75,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPOCIDT_2#ARJ102-20110310-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 76,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPCABINA_2#ARJ102-20100601-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 77,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA1_2#ARJ102-20110311.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 78,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA4_2#ARJ102-20100625-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 79,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAC_2#ARJ102-20100624-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 80,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA6_2#ARJ102-20120619-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 81,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAA32_2#ARJ102-20120618-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 82,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA5_2#ARJ102-20100611-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 83,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAC_2#ARJ102-20100617-11.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 84,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAEES1_2#ARJ102-20120622-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 85,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/DELTPR_1#ARJ102-20120620-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 86,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1SA4_2#ARJ102-20100610-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 87,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/HPMR_1#ARJ102-20120618-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 88,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/VIR_1#ARJ102-20100618-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 89,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/PSBR_1#ARJ102-20120622-hx2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 90,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAA32_2#ARJ102-20100624-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 91,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GPAA32_2#ARJ102-20120619-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 92,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/DELTPR_1#ARJ102-20100601-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 93,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/negative/GP1TA7_2#ARJ102-20120620-hx3.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 0
+        },
+        {
+            "image_id": 94,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GPAEES1_2#ARJ102-20110314.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 95,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GPAC_2#ARJ102-20110310-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 96,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GPAEES2_2#ARJ102-2011616-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 97,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GPAA32_2#ARJ102-20110310-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 98,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GP1SA5_2#ARJ102-20110519-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 99,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GP1SA1_2#ARJ102-20100617-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 100,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GPAA32_2#ARJ102-20110615-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 101,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GPCABINA_2#ARJ102-20110129-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 102,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GP1SA1_2#ARJ102-20110311.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 103,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GP1SA1_2#ARJ102-20100625-1.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 104,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GPAA32_2#ARJ102-20110314.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        },
+        {
+            "image_id": 105,
+            "fpath": "/data/yanghao/dataset/Flights-img/val/positive/GPAEES1_2#ARJ102-20110129-2.jpg",
+            "im_height": 600,
+            "im_width": 800,
+            "category_id": 1
+        }
+    ],
+    "num_classes": 2
+}

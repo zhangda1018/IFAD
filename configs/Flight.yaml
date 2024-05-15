@@ -1,0 +1,62 @@
+#NAME: 'BBN.Flights.img.res50.prob4.100epoch_1'
+# NAME: 'BBN-rewei.Flights.res50.200epoch_2'
+NAME: 'Flights.adpt.VBLoss.0.1.w4.linear.200epoch_6'
+
+OUTPUT_DIR: './output/test_0426'
+SHOW_STEP: 500
+SAVE_STEP: 5
+VALID_STEP: 1
+INPUT_SIZE: (224, 224)
+COLOR_SPACE: 'RGB'
+CPU_MODE: False
+
+DATASET:
+  DATASET: 'iNaturalist'
+  DATA_TYPE: 'jpg'
+  TRAIN_JSON: '/data/zhangda/TScode/IFAD/data_json/Flights_train.json'
+  VALID_JSON: '/data/zhangda/TScode/IFAD/data_json/Flights_test.json'
+
+BACKBONE:
+  TYPE: 'bbn_res50'
+
+MODULE:
+  TYPE: 'GAP'
+
+LOSS:
+  LOSS_TYPE: 'VBLoss' # VBLoss, CrossEntropy
+
+CLASSIFIER:
+  TYPE: 'FC'
+  BIAS: True
+
+TRAIN:
+  BATCH_SIZE: 4
+  MAX_EPOCH: 200 # 100
+  NUM_WORKERS: 4
+  COMBINER:
+    TYPE: 'bbn_mix'
+  TENSORBOARD:
+    ENABLE: False
+  SAMPLER:
+    TYPE: 'default'
+    DUAL_SAMPLER:
+      ENABLE: True
+      TYPE: 'adpt' # reverse, adpt
+  OPTIMIZER:
+    TYPE: 'ADAM'
+    BASE_LR: 0.0002
+    MOMENTUM: 0.9
+    WEIGHT_DECAY: 1e-4
+  LR_SCHEDULER:
+    TYPE: 'multistep'
+    LR_STEP: [80, 160] # [25, 40] [60, 100] 
+    LR_FACTOR: 0.1
+
+TRANSFORMS:
+  TRAIN_TRANSFORMS: ("random_resized_crop", "random_horizontal_flip")
+  TEST_TRANSFORMS: ("shorter_resize_for_crop", "center_crop")
+
+TEST:
+  BATCH_SIZE: 4
+  NUM_WORKERS: 4
+  MODEL_FILE: '.pth'
